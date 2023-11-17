@@ -258,6 +258,10 @@ WPSec WordPress Vulnerability Scanner (Old 2022 deal still works - yikes) \
 https://wpsec.com/blackfriday/  
 One month free ($29 USD off)
 
+Simplelogin \
+https://simplelogin.io/pricing/
+Black Friday: $20 for the first year instead of $30. \
+
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
