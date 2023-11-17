@@ -260,7 +260,7 @@ One month free ($29 USD off)
 
 Simplelogin \
 https://simplelogin.io/pricing/ \
-Black Friday: $20 for the first year instead of $30. 
+Black Friday: $20 for the first year instead of $30.
 
 -----------------------------------------------------------------------------------------
 
